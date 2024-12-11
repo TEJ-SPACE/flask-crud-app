@@ -1,3 +1,4 @@
 .venv
 /instance/database.db
 code_logic_explanation.txt
+.DS_Store
